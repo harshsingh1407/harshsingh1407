@@ -42,14 +42,16 @@ It allows tenants to raise complaints and landlords to track, manage, and resolv
 An **AI-based Interview Preparation Web Application** that helps users practice questions, analyze performance,  
 and prepare effectively for interviews using a clean and modern UI built with the **MERN stack**.
 
+### 🔹 [uTube](https://utube14.netlify.app/)
+A **YouTube UI Clone** built using **React & Tailwind CSS**, replicating the real YouTube layout with  
+a focus on responsive design and dynamic content rendering.
+
+### 🔹 [SceneStream](https://scenestream.netlify.app/)
+A **React-based movie discovery platform** that displays movie posters, names, categories, and release years  
+using external APIs. Built with a responsive UI for a smooth browsing experience.
+
 ---
 
-## 🧾 GitHub Stats
-
-![Harsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshsingh1407&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshsingh1407&layout=compact&theme=tokyonight&width=500px)
-
----
 
 ## 🌐 Connect With Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/harshsingh1407/)
