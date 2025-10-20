@@ -34,7 +34,7 @@ From building interactive UIs to developing efficient backend systems — I enjo
 
 ## 🧩 Projects
 
-### 🔹 [RentFix](https://github.com/harshsingh1407/RentFix)
+### 🔹 [RentFix](https://rent-fix.vercel.app/)
 A **Complaint Management System** for **tenants and landlords** to handle property-related issues efficiently.  
 It allows tenants to raise complaints and landlords to track, manage, and resolve them through a structured dashboard.
 
@@ -47,7 +47,7 @@ and prepare effectively for interviews using a clean and modern UI built with th
 ## 🧾 GitHub Stats
 
 ![Harsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshsingh1407&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshsingh1407&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshsingh1407&layout=compact&theme=tokyonight&width=500px)
 
 ---
 
