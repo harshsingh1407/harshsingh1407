@@ -56,4 +56,4 @@ using external APIs. Built with a responsive UI for a smooth browsing experience
 ## 🌐 Connect With Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/harshsingh1407/)
 - 🌎 [Portfolio Website](https://harsh14portfolio.netlify.app/)
-- ✉️ Email: harshsingh95941@gmail.com
+- ✉️ [Email](harshsingh95941@gmail.com)
