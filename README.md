@@ -46,8 +46,8 @@ and prepare effectively for interviews using a clean and modern UI built with th
 
 ## 🧾 GitHub Stats
 
-![Harsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshsingh&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshsingh&layout=compact&theme=tokyonight)
+![Harsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshsingh1407&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshsingh1407&layout=compact&theme=tokyonight)
 
 ---
 
